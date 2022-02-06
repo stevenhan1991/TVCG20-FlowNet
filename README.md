@@ -16,7 +16,7 @@ N binary volume files are required for the model training (N is the number of tr
 
 ## Training models
 ```
-cd code 
+cd Code 
 ```
 
 - training
