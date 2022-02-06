@@ -39,7 +39,6 @@ python3 main.py --mode 'inf'
 	Pages = {1732-1744},
 	Title = {{FlowNet}: A Deep Learning Framework for Clustering and Selection of Streamlines and Stream Surfaces},
 	Volume = {26},
-	Year = {2020}
-  }
+	Year = {2020}}
 
 ```
