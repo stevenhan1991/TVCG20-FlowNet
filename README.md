@@ -1,7 +1,7 @@
 # FlowNet: A Deep Learning Framework for Clustering and Selection of Streamlines and Stream Surfaces
 Pytorch implementation for FlowNet: A Deep Learning Framework for Clustering and Selection of Streamlines and Stream Surfaces
 
-In our code, we provide an example of learning hidden features of streamline and stream surfaces traced five critical points vector field. The dimension of this data set is 51 by 51 by 51.
+In our code, we provide an example of learning hidden features of streamline and stream surfaces traced from five critical points vector field. The dimension of this data set is 51 by 51 by 51.
 
 ## Prerequisites
 - Linux
