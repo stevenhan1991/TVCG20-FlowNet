@@ -8,7 +8,7 @@ In our code, we provide an example of learning hidden features of streamline and
 - CUDA >= 10.0
 - Python >= 3.6
 - Numpy
-- Pytorch = 0.4.0
+- Pytorch >= 0.4.0
 
 ## Data preparation
 N binary volume files are required for the model training (N is the number of traced streamlines/stream surfaces). The binary volume is stored as in column-major order, that is z-axis goes first, then y-axis, finally x-axis.
